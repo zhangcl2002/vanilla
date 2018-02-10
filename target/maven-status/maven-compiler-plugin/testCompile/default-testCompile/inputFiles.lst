@@ -1,0 +1,10 @@
+/Users/zhangcl/Downloads/spring-security-oauth-master-3/tests/annotation/vanilla/src/test/java/demo/ProtectedResourceTests.java
+/Users/zhangcl/Downloads/spring-security-oauth-master-3/tests/annotation/vanilla/src/test/java/demo/ImplicitProviderTests.java
+/Users/zhangcl/Downloads/spring-security-oauth-master-3/tests/annotation/vanilla/src/test/java/demo/GlobalMethodSecurityTests.java
+/Users/zhangcl/Downloads/spring-security-oauth-master-3/tests/annotation/vanilla/src/test/java/demo/ApplicationTests.java
+/Users/zhangcl/Downloads/spring-security-oauth-master-3/tests/annotation/vanilla/src/test/java/demo/AdHocTests.java
+/Users/zhangcl/Downloads/spring-security-oauth-master-3/tests/annotation/vanilla/src/test/java/demo/AuthorizationCodeProviderCookieTests.java
+/Users/zhangcl/Downloads/spring-security-oauth-master-3/tests/annotation/vanilla/src/test/java/demo/ResourceOwnerPasswordProviderTests.java
+/Users/zhangcl/Downloads/spring-security-oauth-master-3/tests/annotation/vanilla/src/test/java/demo/AuthorizationCodeProviderTests.java
+/Users/zhangcl/Downloads/spring-security-oauth-master-3/tests/annotation/vanilla/src/test/java/demo/RefreshTokenSupportTests.java
+/Users/zhangcl/Downloads/spring-security-oauth-master-3/tests/annotation/vanilla/src/test/java/demo/ClientCredentialsProviderTests.java
